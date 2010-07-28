@@ -1,4 +1,4 @@
-NAME=hackerspace
+NAME=brmlab
 
 all: clean $(NAME).pdf
 
